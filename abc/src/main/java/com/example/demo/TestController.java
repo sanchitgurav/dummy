@@ -10,7 +10,7 @@ public class TestController {
 	@ResponseBody
 	@RequestMapping("/xyz")
 	public String getMsg() {
-		return "hello sanchit";
+		return "hello sanchit....how are you";
 	}
 
 }
